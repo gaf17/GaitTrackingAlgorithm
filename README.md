@@ -4,5 +4,3 @@ The goal of this project was to find the best method of segmenting a video using
 
 ![image](https://github.com/gaf17/GaitTrackingAlgorithm/assets/54678225/4d526a6c-dcc7-43de-8bd5-85349731624b)
 
-https://github.com/gaf17/GaitTrackingAlgorithm/assets/54678225/422a93b8-9332-42bb-a6dd-5d70d64f7261
-
